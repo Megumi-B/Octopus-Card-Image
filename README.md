@@ -17,6 +17,9 @@ An iOS Octopus Card image library, compatible with [AirCard](https://github.com/
 (4) Upload and replace the current card skin.<br>
 (5) DONE.<br>
 
+### Contribute
+Do you possess card images not yet gathered in this repository? Please [contribute](https://github.com/Megumi-B/Octopus-Card-Image/wiki/Contribute) and share them with the community. You will be acknowledged as a contributor.
+
 ### Changelog
 <details><summary>24 Sep 2026:</summary>
 Initial upload with 112 card faces.</details>
