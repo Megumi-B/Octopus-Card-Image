@@ -25,6 +25,15 @@ Want to [DIY](https://github.com/Megumi-B/Octopus-Card-Image/wiki/DIY) your own 
 Prepare your image and add the remade logo. You're all good to go!<br>
 
 ### Changelog
+<details><summary>16 Oct 2026:</summary>
+Uploaded 5 new card faces.<br>
+<li>行善救兒童 - 情緒樂園</li>
+<li>JOGUMAN - Shopping Time</li>
+<li>JOGUMAN - 巴士 Buddy 哼啍啍♪～～</li>
+<li>Tarmac Works - #香港紅色的士（正面）</li>
+<li>Tarmac Works - #香港紅色的士（側面）</li>
+<br></details>
+
 <details><summary>24 Sep 2026:</summary>
 Initial upload with 112 card faces.<br>
 Uploaded remade logo SVG<br></details>
